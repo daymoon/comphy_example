@@ -1,2 +1,10 @@
 # comphy_example
-example codes of computational physics
+Here, we have some example codes of computational physics.
+
+## Languages
+
+* python(with numpy)
+* python(vectorization with numba)
+* C
+* java
+* julia
